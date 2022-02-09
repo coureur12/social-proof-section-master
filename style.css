@@ -141,3 +141,8 @@ p.text{
     width: 20vw;
     min-width: 263px;
 }
+@media only screen and (max-width: 400px) {
+    body {
+      background-color: lightblue;
+    }
+  }
